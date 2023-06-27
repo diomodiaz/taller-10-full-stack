@@ -8,6 +8,8 @@
 <img src="./public/images/calculator.png" alt="Calculadora">
 
 <h2>Punto 2:</h2>
+<h3>Calcular edad</h3>
+<img src="./public/images/ElderMinorAge.png" alt="Age">
 
 <h2>Punto 3:</h2>
 
