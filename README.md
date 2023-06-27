@@ -5,13 +5,17 @@
 <p>Profesor: Cristian Patiño</p>
 <h2>Punto 1:</h2>
 <h3>Calculadora basica(Suma, Resta, Multiplicación y División)</h3>
-<img src="./public/images/calculator.png" alt="Calculadora">
+<img src="./public/images/calculator.png" alt="Calculator">
 
 <h2>Punto 2:</h2>
 <h3>Calcular edad</h3>
 <img src="./public/images/ElderMinorAge.png" alt="Age">
 
 <h2>Punto 3:</h2>
+<h3>Datos de usuario</h3>
+<img src="./public/images/DataUser.png" alt="DataUser">
+<h3>Resultado</h3>
+<img src="./public/images/ResultDataUser.png" alt="ResultDataUser">
 
 <h2>Punto 4:</h2>
 
