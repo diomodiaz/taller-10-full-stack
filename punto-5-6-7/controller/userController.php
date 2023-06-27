@@ -12,4 +12,15 @@ function getUsers() {
     }
     return $userList;
 }
+function createUserBD(){
+    $name = $_POST["name"];
+    $lastName = $_POST["lastName"];
+    $idNumber = $_POST["idNumber"];
+    $user = new User(
+        null,
+        $name,
+        $lastName,
+        $idNumber);
+    return createUserBD($user);
+}
 ?>

@@ -4,6 +4,8 @@
 <p>Curso: Full Stack Basico - Grupo 1</p>
 <p>Profesor: Cristian Patiño</p>
 <h2>Punto 1:</h2>
+<h3>Calculadora basica(Suma, Resta, Multiplicación y División)</h3>
+<img src="./public/images/calculator.png" alt="Calculadora">
 
 <h2>Punto 2:</h2>
 
