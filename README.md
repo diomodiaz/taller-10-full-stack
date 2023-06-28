@@ -18,6 +18,8 @@
 <img src="./public/images/ResultDataUser.png" alt="ResultDataUser">
 
 <h2>Punto 4:</h2>
+<h3>Calculo de edad por fecha</h3>
+<img src="./public/images/BirthDate.png" alt="Date">
 
 <h2>Punto 5-6-7:</h2>
 <h3>5 - Base de datos</h3>

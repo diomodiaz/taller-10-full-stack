@@ -9,7 +9,7 @@ function getUserByIdNumber($idNumber){
     return mysqli_query(CONNECTION, "SELECT * FROM usuario WHERE cedula = $idNumber");
 
 }
-function createUserBD($user){
+function createUserBDD($user){
     $query = "INSERT INTO usuarios (nombre,apellido,cedula) VALUES";
     $query .= "'".$user->nombre."',";
     $query.= "'".$user->apellido."',";
